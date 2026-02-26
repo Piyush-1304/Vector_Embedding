@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+hindi_corpus.txt
+hindi_bpe.model
+hindi_bpe.vocab
+.env
